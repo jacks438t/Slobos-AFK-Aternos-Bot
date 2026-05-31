@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "LR8YENI67VxUGREqTRLF7cv3A7p4J34aUg4j85Ox1E1i0MIDAXCY7XeJZj71guo0NyPiHysN1SRdamDIj55r7Zw6wJvRyjN88dG"
     },
     "anti-afk": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1510728195941597284/5_Z8Ye6vrJVu8zVNovjvZz0FIVcf3u9XmK8Y_jlug6ugDTCNh3Dt1AAsVvDl52EtHGuF",
+    "webhookUrl": "https://discord.com/api/webhooks/1510735667309707305/smgTO8QTh6mfQE1ZxqYo4o-lKToW1h40OQa1nZv0QVPqNuqts3SWdGbPWLmVc8hjymoF",
     "events": {
       "connect": true,
       "disconnect": true,
