@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AfkBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "infernalsurvivor778.mcsh.io",
+    "port": 25565,
+    "version": "1.21.6",
     "try-creative": false
   },
   "position": {
@@ -20,19 +20,19 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "2H!ceM*ExAgQ(zYdGABS+Ip5ZP34xYa8wr7:IV&?G?aV(d+5H)G9ySyFz0+2q*5iV):CU=Hc,V5SI(56N79vXy9-8X4*6*-91E2"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "hi",
         "I like to play Minecraft!"
       ]
     },
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1510728195941597284/5_Z8Ye6vrJVu8zVNovjvZz0FIVcf3u9XmK8Y_jlug6ugDTCNh3Dt1AAsVvDl52EtHGuF",
     "events": {
       "connect": true,
       "disconnect": true,
